@@ -3,6 +3,8 @@ site made in react that hosts a collection of profile pictures which can be used
 
 <img src="demo.png"></img>
 
+visit here: https://pfps.icu/
+
 todo:
 filtered categories,
 fix buttons,
