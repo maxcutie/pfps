@@ -12,3 +12,4 @@ infinite scroll,
 matching profile pics page,
 fix alot of formatting since its all jumbled,
 make imports easier / auto with loads to cdn
+add google analytics 
